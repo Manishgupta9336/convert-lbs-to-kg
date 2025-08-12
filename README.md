@@ -1,2 +1,2 @@
 # convert-lbs-to-kg
-converting weightlbs to kg
+converting weight (lbs to kg)
